@@ -1,5 +1,5 @@
-### Hi there 👋
-#### I am Emrah, A passionate computer engineer from İzmir 
+### Hi there 👋 I am Emrah, 
+#### A passionate computer engineer from İzmir 
 
 - 🔭 I’m currently working on bol.com
 - 🌱 I’m currently learning Kotlin
