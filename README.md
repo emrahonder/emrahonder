@@ -1,4 +1,6 @@
 ### Hi there 👋
+#### I am Emrah, A passionate computer engineer from İzmir 
+
 - 🔭 I’m currently working on bol.com
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/emrahonder/) or [My Blog](https://www.nioya.com/) 
