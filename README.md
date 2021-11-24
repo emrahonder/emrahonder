@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on bol.com
 - 🌱 I’m currently learning Kotlin
-- 📫 How to reach me: [a Linkedin](https://www.linkedin.com/in/emrahonder/) or [a My Blog](https://www.linkedin.com/in/emrahonder/) 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/emrahonder/) or [My Blog](https://www.nioya.com/) 
 - 
 Enthusiastic Senior Software Developer and Leader professional with 10+ years of experience in software development technologies with strong technical know-how in both system architecture and design. Completed more than 30 projects by taking responsibility in the design, management, and development phases.
 
